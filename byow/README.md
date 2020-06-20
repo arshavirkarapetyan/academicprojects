@@ -1,0 +1,1 @@
+We design and implement a 2D tile-based world exploration engine. By “tile-based”, we mean the worlds we generate will consist of a 2D grid of tiles. By “world exploration engine” we mean that our software will build a world, which the user will be able to explore by walking around and interacting with objects in that world.
