@@ -1,0 +1,1 @@
+Probabilistic inference in a Hidden Markov Model tracks the movement of hidden ghosts in the Pacman world. We implement exact inference using the forward algorithm and approximate inference via particle filters.
